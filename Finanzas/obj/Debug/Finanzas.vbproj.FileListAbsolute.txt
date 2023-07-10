@@ -1,0 +1,14 @@
+C:\Users\Toshiba\Desktop\Finanzas\Finanzas\bin\Debug\Finanzas.exe.config
+C:\Users\Toshiba\Desktop\Finanzas\Finanzas\bin\Debug\Finanzas.exe
+C:\Users\Toshiba\Desktop\Finanzas\Finanzas\bin\Debug\Finanzas.pdb
+C:\Users\Toshiba\Desktop\Finanzas\Finanzas\bin\Debug\Finanzas.xml
+C:\Users\Toshiba\Desktop\Finanzas\Finanzas\obj\Debug\Finanzas.vbprojAssemblyReference.cache
+C:\Users\Toshiba\Desktop\Finanzas\Finanzas\obj\Debug\Finanzas.FrmInteresCompuesto.resources
+C:\Users\Toshiba\Desktop\Finanzas\Finanzas\obj\Debug\Finanzas.FrmInteresSimple.resources
+C:\Users\Toshiba\Desktop\Finanzas\Finanzas\obj\Debug\Finanzas.FrmMenu.resources
+C:\Users\Toshiba\Desktop\Finanzas\Finanzas\obj\Debug\Finanzas.Resources.resources
+C:\Users\Toshiba\Desktop\Finanzas\Finanzas\obj\Debug\Finanzas.vbproj.GenerateResource.cache
+C:\Users\Toshiba\Desktop\Finanzas\Finanzas\obj\Debug\Finanzas.vbproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\Finanzas\Finanzas\obj\Debug\Finanzas.exe
+C:\Users\Toshiba\Desktop\Finanzas\Finanzas\obj\Debug\Finanzas.xml
+C:\Users\Toshiba\Desktop\Finanzas\Finanzas\obj\Debug\Finanzas.pdb
