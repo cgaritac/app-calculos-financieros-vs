@@ -12,3 +12,17 @@ C:\Users\Toshiba\Desktop\Finanzas\Finanzas\obj\Debug\Finanzas.vbproj.CoreCompile
 C:\Users\Toshiba\Desktop\Finanzas\Finanzas\obj\Debug\Finanzas.exe
 C:\Users\Toshiba\Desktop\Finanzas\Finanzas\obj\Debug\Finanzas.xml
 C:\Users\Toshiba\Desktop\Finanzas\Finanzas\obj\Debug\Finanzas.pdb
+C:\Users\cgari\OneDrive\Proyectos\app-calculos-financieros-vs\Finanzas\obj\Debug\Finanzas.vbproj.AssemblyReference.cache
+C:\Users\cgari\OneDrive\Proyectos\app-calculos-financieros-vs\Finanzas\obj\Debug\Finanzas.FrmInteresCompuesto.resources
+C:\Users\cgari\OneDrive\Proyectos\app-calculos-financieros-vs\Finanzas\obj\Debug\Finanzas.FrmInteresSimple.resources
+C:\Users\cgari\OneDrive\Proyectos\app-calculos-financieros-vs\Finanzas\obj\Debug\Finanzas.FrmMenu.resources
+C:\Users\cgari\OneDrive\Proyectos\app-calculos-financieros-vs\Finanzas\obj\Debug\Finanzas.Resources.resources
+C:\Users\cgari\OneDrive\Proyectos\app-calculos-financieros-vs\Finanzas\obj\Debug\Finanzas.vbproj.GenerateResource.cache
+C:\Users\cgari\OneDrive\Proyectos\app-calculos-financieros-vs\Finanzas\obj\Debug\Finanzas.vbproj.CoreCompileInputs.cache
+C:\Users\cgari\OneDrive\Proyectos\app-calculos-financieros-vs\Finanzas\obj\Debug\Finanzas.exe
+C:\Users\cgari\OneDrive\Proyectos\app-calculos-financieros-vs\Finanzas\obj\Debug\Finanzas.xml
+C:\Users\cgari\OneDrive\Proyectos\app-calculos-financieros-vs\Finanzas\obj\Debug\Finanzas.pdb
+C:\Users\cgari\OneDrive\Proyectos\app-calculos-financieros-vs\Finanzas\bin\Debug\Finanzas.exe.config
+C:\Users\cgari\OneDrive\Proyectos\app-calculos-financieros-vs\Finanzas\bin\Debug\Finanzas.exe
+C:\Users\cgari\OneDrive\Proyectos\app-calculos-financieros-vs\Finanzas\bin\Debug\Finanzas.pdb
+C:\Users\cgari\OneDrive\Proyectos\app-calculos-financieros-vs\Finanzas\bin\Debug\Finanzas.xml
